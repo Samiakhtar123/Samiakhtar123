@@ -15,7 +15,7 @@
 
 ## 🔗 Connect With Me
 - 🌐 Portfolio: [sami-akhtar-dev-816vlko.gamma.site](https://sami-akhtar-dev-816vlko.gamma.site)  
-- 💼 LinkedIn: [linkedin.com/in/sami-akhtar-dev](https://linkedin.com/in/sami-akhtar-dev)  
+- 💼 LinkedIn: [linkedin.com/in/samiakhtar1](https://www.linkedin.com/in/samiakhtar1/)  
 - 📂 GitHub: [github.com/Samiakhtar123](https://github.com/Samiakhtar123)  
 
 ---
